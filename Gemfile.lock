@@ -256,7 +256,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
-    redcarpet (3.5.0)
+    redcarpet (3.5.1)
     redd (0.8.8)
       http (~> 2.2)
     referer-parser (0.3.0)
